@@ -1,2 +1,2 @@
-# SD1-COURSEWORK
-The following repository contains all the documents pertaining to the Software Development 1 Course Work
+# An Credential Validation System using Python Programming Language
+The aobve system takes in Student Marks and displays the status of the student's credentials(Pass,Fail,Defer). 
